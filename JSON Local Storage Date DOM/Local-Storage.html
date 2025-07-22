@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    // localStorage.setItem('Name', 'JS');
+    // localStorage.setItem('Hello', 'Priya');
+
+    // console.log(localStorage.getItem('Name'));
+
+
+
+    let student = {
+    name: "Rudra",
+    college: "TINT",
+    batch: {
+        namebatch: 23-27,
+        dept: "csbs",
+    },
+};
+    localStorage.setItem('student',JSON.stringify(student));
+    console.log(localStorage.getItem('student'));
+
+   </script>
+</body>
+</html>
