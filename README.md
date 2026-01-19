@@ -9,6 +9,15 @@ Help others learn from my code
 
 Get feedback and ideas to improve
 
-Give back to the developer community that has helped me a lot
+Give back to the developer community that has helped me a lot.
+
+---
+
+## ⭐ Support
+If you find this repository helpful:
+- Give it a ⭐
+- Share it with your friends
+
+---
 
 Feel free to explore, fork, and contribute. Let's grow together! 😊
